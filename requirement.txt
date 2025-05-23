@@ -1,0 +1,4 @@
+numpy==1.24.4
+simple_lama_inpainting
+easyocr
+PyQt5
